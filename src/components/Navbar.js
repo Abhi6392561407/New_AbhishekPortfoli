@@ -15,13 +15,13 @@ function Navbar() {
 
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300'>
       <div >
-        <img  className='  pt-20 rounded-full flex justify-center ' src={Avatar} alt='Logo Abhishek' style={{ width: '20%', boxShadow: '0 4px 6px -1px red' }}/>
+        <img  className=' md:pt-20 rounded-full flex justify-center ' src={Avatar} alt='Logo Abhishek' style={{ width: '20%', boxShadow: '0 4px 6px -1px red' }}/>
 
       </div>
 
       {/*Menu*/}
 
-        <ul className='md:flex' >
+        <ul className='md:flex ' >
           <li>
             <Link to='home' smooth={true} duration={500}>
               Home
