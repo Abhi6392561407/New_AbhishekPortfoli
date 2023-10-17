@@ -1,0 +1,21 @@
+
+#Image1{
+    background-image: url(../assests/projects/Image1.JPG);
+    border-radius: 50px;
+}
+
+#Image2{
+    background-image: url(../assests/projects/Image2.jpg);
+    border-radius: 50px;
+}
+
+
+#Image3{
+    background-image: url(../assests/projects/Image4.JPG);
+    border-radius: 50px;
+
+}
+#Image5{
+    background-image: url(../assests/projects/Image5.JPG);
+    border-radius: 50px;
+}
