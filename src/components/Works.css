@@ -1,0 +1,40 @@
+#work{
+    border: 2px solid wheat;
+    height: auto;
+    padding-bottom: 40px;
+    padding-top: 20px;
+
+}
+#Image1{
+    background-image: url(../assests/projects/Image1.JPG);
+    border-radius: 50px;
+    box-shadow: 5px 5px 10px rgb(98, 98, 241);
+    object-fit: cover;
+    
+
+
+}
+
+#Image2{
+    background-image: url(../assests/projects/Image2.jpg);
+    border-radius: 50px;
+    box-shadow: 5px 5px 10px rgb(98, 98, 241);
+    object-fit: cover;
+
+}
+
+
+#Image3{
+    background-image: url(../assests/projects/Image4.JPG);
+    border-radius: 50px;
+    box-shadow: 5px 5px 10px rgb(98, 98, 241);
+    object-fit: cover;
+
+}
+#Image5{
+    background-image: url(../assests/projects/Image5.JPG);
+    border-radius: 50px;
+    box-shadow: 5px 5px 10px rgb(98, 98, 241);
+    object-fit: cover;
+ 
+}
